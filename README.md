@@ -6,10 +6,9 @@ Este repositório contém os artefatos desenvolvidos durante a Global Solutions,
 
 Este projeto utiliza um sensor de amônia (NH4) conectado a um microcontrolador ESP32 para monitorar a concentração de amônia na água do mar. A leitura do sensor é enviada via Wi-Fi a um servidor MQTT, permitindo o monitoramento remoto em tempo real. O monitoramento dos níveis de amônia é crucial para a saúde marinha, detectando poluição precoce e contribuindo para a preservação dos ecossistemas marinhos.
 
-# Integrantes
+## Integrantes
 - Gabriel Mediotti Marques - RM 552632
 - Jó Sales - RM 552679
-
 
 ## Entregas por Matéria
 
@@ -35,9 +34,24 @@ Este projeto utiliza um sensor de amônia (NH4) conectado a um microcontrolador 
   - Localização do artigo: `differentiated-problem-solving`
 
 ### Software Design and Total Experience
-- **Backlog**
+
+- **Backlog:**
+  - Criação e gerenciamento do backlog do projeto, detalhando as funcionalidades a serem implementadas e suas prioridades.
+  - Localização do backlog: `software-design/Aquicultura_Tecnologica_Backlog.xlsx`
+
+- **Descritivos da Solução:**
+  - Documentação detalhada da solução proposta, incluindo a arquitetura do sistema, fluxos de dados, e especificações técnicas.
+  - Localização dos descritivos: `software-design/Descritivos da Solução.docx`
 
 ### Storytelling
-- **Pitch** 
+
+- **Pitch:**
+  - Desenvolvimento de um pitch para apresentar o projeto, destacando o problema abordado, a solução proposta e o impacto esperado.
+  - Localização do pitch: [`storytelling/pitch`](storytelling/WhatsApp Video 2024-06-07 at 21.46.04.mp4)
 
 ### Frontend
+
+- **Projeto em React:**
+  - Desenvolvimento de uma interface frontend em React para visualização dos dados de amônia coletados pelo sistema.
+  - A interface permite a visualização em tempo real das leituras de amônia e fornece gráficos e alertas para anomalias detectadas.
+  - Localização do projeto: `frontend`
