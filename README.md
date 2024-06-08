@@ -34,3 +34,10 @@ Este projeto utiliza um sensor de amônia (NH4) conectado a um microcontrolador 
   - Apresenta uma introdução, desenvolvimento e conclusão sobre a importância do monitoramento de amônia e os métodos utilizados.
   - Localização do artigo: `differentiated-problem-solving`
 
+### Software Design and Total Experience
+- **Backlog**
+
+### Storytelling
+- **Pitch** 
+
+### Frontend
