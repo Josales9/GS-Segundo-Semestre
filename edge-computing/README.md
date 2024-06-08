@@ -5,6 +5,10 @@ O diretório hospeda os artefatos desenvolvidos durante a Global Solutions, edi�
 - Gabriel Mediotti Marques - RM 552632
 - Jó Sales - RM 552679
 
+# [Simulação Wowki](https://wokwi.com/projects/400035748557528065)
+
+# [Vídeo Explicativo](https://youtu.be/vBYUVBN5s2s)
+
 ## Descrição
 Este projeto utiliza um sensor de amônia (NH4) conectado a um microcontrolador ESP32 para monitorar a concentração de NH4 na água do mar. A leitura do sensor é enviada via Wi-Fi a um servidor MQTT, permitindo monitoramento remoto em tempo real. Monitorar os níveis de NH4 é crucial para a saúde marinha, pois concentrações elevadas podem indicar poluição e afetar a vida aquática. Este sistema facilita a detecção precoce de anomalias, melhorando a capacidade de resposta a problemas ambientais e contribuindo para a preservação dos ecossistemas marinhos.
 
